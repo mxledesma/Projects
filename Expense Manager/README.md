@@ -1,15 +1,12 @@
 # Expense Manager Tasks
 
 ## To-Do
-- [ ] Set up database for expense tracking
-- [ ] Design user interface for adding expenses
-- [ ] Implement authentication system
 - [x] Create Spring Boot starter Project
 - [x] Create React Starter Project
 
 ## In Progress
-- [ ] Develop API for expense retrieval
-- [ ] Create unit tests for database models
+- [x] Create Spring Boot starter Project
+- [x] Create React Starter Project
 
 ## Done
 - [x] Initialize project repository
