@@ -4,6 +4,8 @@
 - [ ] Set up database for expense tracking
 - [ ] Design user interface for adding expenses
 - [ ] Implement authentication system
+- [ ] Create Spring Boot starter Project
+- [ ] Create React Starter Project
 
 ## In Progress
 - [ ] Develop API for expense retrieval
